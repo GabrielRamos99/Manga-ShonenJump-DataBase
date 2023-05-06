@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+
+{% block header %}
+  <h1>{% block title %}{{ genre.Label }} {% endblock %}</h1>
+{% endblock %}
+
+{% block content %}
+  <h2>Genre info</h2>
+  <p>
+    <b>GenreId: </b>{{ genre.GenreId }}
+  </p>
+  <p>
+    <b>Label: </b>{{ genre.Label }}
+  </p>
+  <p>
+    <b>Manga: </b><ul>
+    {% for m  in mangas %}      
+      <li><a href="/mangas/{{ m.MangaId }}">{{ m.manga_name }}</a></li>
+    {% endfor %}
+    </ul>
+  </p>
+  <p>
+    <b>Anime: </b><ul>
+    {% for a  in animes %}      
+      <li><a href="/animes/{{ a.AnimeId }}">{{ a.animeName }}</a></li>
+    {% endfor %}
+    </ul>
+  </p>
+{% endblock %}

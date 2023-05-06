@@ -1,0 +1,177 @@
+MangaId,manga_name,volumes,chapters,mangaRating,pre_quel,start_date,end_date
+1,Akkera Kanjinchou,2,14,null,null,2002-02-12,2022-04-30
+2,Black Cat,20,187,7.81,null,2000-07-11,2004-06-14
+3,Bleach,74,686,7.8,null,2001-08-07,null
+4,Bobobo,21,230,7.46,null,2001-02-20,2005-12-12
+5,Bremen,9,82,7.41,null,1999-12-14,2001-09-11
+6,Buso Renkin,10,83,7.26,null,2003-06-23,2006-04-25
+7,D.Gray-man,9,82,8.29,null,2004-05-31,2005-12-12
+8,Death Note,12,108,8.7,null,2003-12-01,2006-05-15
+9,Eyeshield 21,37,333,8.48,null,2002-07-23,2009-06-15
+10,Gedo the Unidentified Mysterious Boy,5,48,null,null,2004-03-08,2005-02-21
+11,Gintama,77,709,8.62,null,2003-12-08,2019-06-20
+12,Granada,1,5,7.17,null,2005-02-25,2006-04-25
+13,Gun Blaze West,3,28,6.53,null,2000-12-12,2001-07-31
+14,Ichigo 100%,19,167,7.78,null,2002-02-19,2005-08-01
+15,JoJo no Kimy na Baken Part 1 Phantom Blood,5,44,7.31,null,1986-12-02,1987-10-13
+16,JoJo no Kimy na Baken Part 2 Battle Tendacy,7,69,8.16,15,1987-10-20,1989-03-14
+17,JoJo no Kimy na Baken Part 3 Stardust Crusaders,16,152,8.1,16,1989-03-20,1992-04-14
+18,JoJo no Kimy na Baken Part 4 Diamond is Unbreakable,18,174,8.57,17,1992-04-21,1995-11-21
+19,JoJo no Kimy na Baken Part 5 Golden Wind,17,155,8.17,18,1995-11-28,1999-03-23
+20,JoJo no Kimy na Baken Part 6 Stone Ocean,17,158,8.26,19,1999-12-07,2003-04-08
+21,JoJo no Kimy na Baken Part 7 Steel ball Run,24,96,9.28,20,2004-01-19,2019-04-19
+22,Kannade,2,15,6.48,null,2003-09-22,2003-12-15
+23,Hitman Reborn,42,411,8.13,null,2004-05-24,2012-11-12
+24,Lilim Kiss,2,24,7.04,null,2000-10-31,2001-04-24
+25,Live,1,10,6.89,null,2003-12-15,2004-03-01
+26,Magician,19,60,7.39,null,1981-12-29,1995-04-24
+27,Mr. Fullswing,24,227,7.33,null,2001-05-08,2006-05-08
+28,Muhyo to Rouji no Mahouritsu Soudan Jimusho,18,159,7.53,null,2004-11-29,2008-03-03
+29,Muteki Tetsuhime Spin-chan,1,11,null,null,2004-03-15,2004-05-31
+30,Normandy Secret Club,5,46,null,null,2000-05-15,2001-04-16
+31,Pretty Face,6,43,7.58,null,2002-05-14,2003-06-09
+32,Pyu to Fuku! Jaguar,10,438,7.5,null,2000-08-22,2010-08-23
+33,Sakuratetsu Taiwahen,2,14,6.72,null,2001-12-04,2002-04-23
+34,Sand Land,1,14,7.01,null,2000-05-09,2000-08-08
+35,Santa,2,12,null,null,2003-04-07,2003-06-30
+36,Shounen Espa Nejime,2,20,null,null,2003-12-15,2004-03-01
+37,Sword Breaker,2,16,null,null,2002-07-30,2002-11-19
+38,Tattoo Hearts,2,15,null,null,2002-12-10,2003-03-25
+39,Ultra Red,4,34,7.19,null,2002-10-08,2003-06-16
+40,Akaboshi: Ibun Suikoden,3,24,6.96,null,2009-05-18,2009-11-02
+41,Anedoki,3,26,7.42,null,2009-07-06,2010-01-18
+42,Asklepios,3,21,7.13,null,2008-09-22,2009-02-09
+43,Bakuman,20,176,8.4,null,2008-08-11,2012-04-23
+44,Bari Haken,4,34,7.2,null,2008-03-17,2008-11-22
+45,Beelzebub,28,250,8.15,null,2009-02-23,2015-03-13
+46,Belmonde Le VisiteuR,3,21,6.77,null,2007-07-09,2007-11-19
+47,Blue Dragon,4,29,6.74,null,2006-12-04,2007-07-09
+48,Bokke-san,2,18,6.65,null,2008-12-15,2009-04-27
+49,Boku no Watashi no Yusha Gaku,6,66,6.76,null,2007-05-14,2008-07-28
+50,Chagecha,1,8,5.5,null,2008-09-13,2008-11-01
+51,Dogashi Kaden,2,15,6.66,null,2008-06-02,2008-09-01
+52,Double Arts,3,24,7.56,null,2008-05-24,2008-09-08
+53,Hand's,1,10,6.39,null,2006-10-02,2006-12-04
+54,Hatsukoi Limited,4,33,7.39,null,2007-10-01,2008-05-26
+55,Hitomi no Catoblepas,2,15,6.68,null,2007-05-21,2007-09-03
+56,Hokenshitsu no Shinigami,10,87,7.12,null,2009-09-07,2011-06-27
+57,Hoopmen,2,17,6.4,null,2009-03-02,2009-06-29
+58,Inumarudashii,11,182,null,null,2008-08-25,2012-06-04
+59,K.O. Sen,2,15,6.95,null,2007-12-10,2008-03-10
+60,Kagijin,2,17,6.49,null,2009-07-13,2009-11-09
+61,Kain,3,21,6.86,null,2005-05-16,2005-09-26
+62,Kuroko no Basket,30,276,8.13,null,2008-12-08,2014-09-01
+63,Mx0,10,99,7.93,null,2006-05-08,2008-05-12
+64,Maison Du Penguin,5,61,null,null,2006-02-13,2007-05-14
+65,Majin Tantei Nougami Neuro ,23,203,8.12,null,2005-02-21,2009-04-20
+66,Medaka Box,22,194,7.79,null,2022-05-11,2013-04-27
+67,Meister,2,13,7.09,null,2008-12-01,2009-02-16
+68,Mieru Hito,7,60,6.85,null,2005-07-16,2006-09-16
+69,Muddy,1,14,6.58,null,2007-12-17,2008-03-17
+70,Nazo no Murasame-kun,3,22,null,null,2006-04-17,2006-09-25
+71,Neko Wappa,2,13,6.44,null,2009-11-09,2010-02-15
+72,Nurarihyon no Mago,25,218,7.98,null,2008-03-10,2012-12-28
+73,Odorobo Poruta,2,16,null,null,2005-10-10,2006-01-30
+74,Over Time,3,22,7.04,null,2006-07-15,2006-11-27
+75,Let's Play Pingpong,7,59,6.94,null,2006-09-25,2008-02-08
+76,Psyren,16,145,7.98,null,2007-12-03,2010-11-29
+77,Samurai Usagi,8,69,7.24,null,2007-03-05,2008-07-14
+78,Shinseiki Idol Densetsu Kanata Seven Change,1,13,null,null,2009-11-16,2010-02-22
+79,Shinsetsu Bobobo,7,74,7.28,4,2005-12-19,2007-07-02
+80,Shiritsu Poseidon Gakuen Koutoubu,2,22,null,null,2007-12-22,2008-05-12
+81,Sket Dance,32,288,8.37,null,2007-07-14,2013-07-08
+82,Super Dog Rilienthal,4,34,6.64,null,2009-09-14,2010-05-10
+83,Taizo Mote King Saga,8,90,null,null,2005-07-25,2007-05-14
+84,Takaya -Senbu Gakuen Gekitouden,5,41,null,null,2005-05-23,2006-02-20
+85,Takaya -Yoake no Enjin-ou,1,14,null,84,2006-02-27,2006-05-29
+86,To Love-Ru,18,162,7.49,null,2006-04-24,2009-08-31
+87,Toriko,43,396,7.64,null,2008-05-19,2016-11-21
+88,Volleyball Tsukai Godago,3,24,null,null,2007-03-12,2007-08-27
+89,Wasshoi Waji Mania,1,20,null,null,2009-07-18,2009-11-16
+90,Zan,2,18,6.6,null,2006-07-24,2006-11-27
+91,Lock On,2,18,7.27,null,2010-02-22,2010-07-28
+92,Kiben Gakuha,3,22,7.35,null,2010-03-01,2010-07-05
+93,Shonen Shikku,2,16,null,null,2010-05-24,2010-09-06
+94,SWOT,3,22,6.62,null,2010-07-05,2010-11-22
+95,Enigma,7,56,7.09,null,2010-09-13,2011-10-30
+96,Light Wing,3,23,6.45,null,2010-09-18,2011-02-21
+97,Dois Sol,2,17,6.6,null,2011-02-14,2011-06-20
+98,Magico,8,68,7.73,null,2011-02-28,2012-08-11
+99,Sengoku Armors,2,17,6.38,null,2011-03-07,2011-07-11
+100,Kikai Banashi Hanasaka Ikkyuu ,2,15,6.4,null,2011-05-09,2011-08-22
+101,Kagami no Kuni no Harisugawa,3,29,7.4,null,2022-07-11,2012-02-13
+102,Kurogane,8,70,7.44,null,2011-09-06,2013-01-28
+103,Nisekoi,25,229,7.73,null,2011-11-07,2016-08-08
+104,Genson Kodai Seibutsu-shi Packy,2,23,null,null,2011-11-14,2012-05-07
+105,Haikyu,45,407,8.84,null,2012-02-20,2020-07-20
+106,Pajama na Kanojo,3,26,6.83,null,2012-02-27,2012-09-03
+107,Koisome Momiji,34,33,7.65,null,2012-05-07,2012-11-19
+108,Saiki Kusuo no Psi-nan,26,290,8.3,null,2012-05-14,2018-07-26
+109,Sensei no Bulge,2,16,6.54,null,2012-05-21,2012-09-10
+110,Assassination Classroom,21,187,8.27,null,2012-07-02,2016-04-25
+111,Takamagahara,2,17,6.34,null,2012-07-09,2012-11-05
+112,Retsu Date Senpai,2,20,null,null,2012-09-10,2013-02-04
+113,Cross Manage,5,43,7.06,null,2012-09-15,2013-10-15
+114,Hungry Joker,3,24,6.63,null,2012-11-12,2013-05-13
+115,Shinmai Fukei Kiruko-san,3,25,6.65,null,2012-11-10,2013-05-20
+116,Food Wars: Shokugeki no Soma,36,325,7.94,null,2012-11-26,2019-08-29
+117,Koisuru Edison,3,40,6.06,null,2013-02-04,2013-07-29
+118,Soul Catcher(S),11,90,7.3,null,2013-05-13,2016-02-14
+119,Smoky B.B.,2,16,6.39,null,2013-05-27,2013-09-09
+120,Jaco the Galactic Patrolman,1,12,7,null,2013-07-13,2013-09-30
+121,Kurokuroku,3,21,6.69,null,2013-07-29,2013-11-25
+122,Hime-dol,2,17,6.95,null,2013-08-05,2013-11-25
+123,Hachi -Tokyo 23-ku,3,22,6.57,null,2013-09-14,2014-02-17
+124,Koi no Cupid Yakenohara Jin,3,20,null,null,2013-09-21,2014-02-17
+125,Isobe Isobee Monogatari: Ukiyo wa Tsurai yo,16,303,7.05,null,2013-05-27,2017-11-24
+126,Tokyo Wonder Boys,1,10,5.9,null,2014-03-03,2014-05-12
+127,Hinomaru Sumo,28,252,7.77,null,2014-05-26,2019-07-22
+128,Boku no Hero Academia,36,375,8.14,null,2014-07-07,null
+129,Mitsukubi Condor,3,23,6.6,null,2014-07-14,2014-11-03
+130,Yoakemono,2,17,6.57,null,2014-07-19,2014-11-10
+131,Judos,3,21,6.38,null,2014-09-08,2015-01-19
+132,Hi-Fi Cluster,3,21,6.14,null,2014-09-13,2015-01-26
+133,Sporting Salt,3,22,6.3,null,2014-09-22,2015-02-02
+134,Takujou no Ageha ,3,23,null,null,2014-11-17,2015-04-27
+135,E-Robot,2,13,null,null,2014-11-22,2015-02-16
+136,Dr. Stone,26,233,8.2,null,2017-03-06,2022-03-07
+137,Kagamigami,5,41,6.63,null,2015-02-09,2015-11-16
+138,Black Clover,33,337,7.86,null,2015-02-16,null
+139,Cyborg Roggy,2,13,null,null,2015-02-23,2015-05-11
+140,Ultra Battle Satellite,3,21,6.76,null,2015-03-02,2015-06-29
+141,Naruto Side Story: The Seventh Hokage and the Scarlet Spring,1,10,7.17,173,2015-04-27,2015-07-06
+142,Straighten Up! Welcome to Shika High's Competitive Dance Club,10,87,7.51,null,2015-05-11,13 feb 017
+143,Lady Justice,2,16,5.85,null,2015-05-18,2015-09-07
+144,Devily Man,2,16,6.45,null,2015-05-25,2015-09-14
+145,Best Blue,3,21,6.2,null,2015-07-13,2015-11-21
+146,Mononofu,5,43,6.89,null,2015-09-14,2016-07-25
+147,Samon-kun wa Summoner,10,89,7.13,null,2015-09-19,2017-07-28
+148,Buddy Strike,1,11,null,null,2015-11-16,2016-02-08
+149,Chainsaw Man,12,97,8.75,null,2018-12-03,null
+150,Jujutsu Kaisen,21,212,8.54,null,2018-03-05,null
+151,Kimetsu no Yaiba,23,207,8.26,null,2016-02-15,2020-05-18
+152,Mashle: Magic and Muscles,14,110,7.64,null,2020-01-27,null
+153,Undead Unluck,14,140,7.25,null,2020-01-20,null
+154,Mission: Yozakura Family,18,159,7.6,null,2019-08-26,null
+155,Me & Roboco,9,118,6.26,null,2020-07-06,null
+156,Act-Age,12,123,8.24,null,2018-01-22,2020-08-11
+157,Magu-chan: God of destruction,9,78,6.76,null,2020-06-22,2022-02-07
+158,Ayakashi Triangle,11,114,6.69,null,2020-06-15,null
+159,Sakamoto Days,9,100,7.91,null,2020-11-21,null
+160,Shakunetsu no Nirai Kani,5,47,6.57,null,2020-06-27,2021-06-21
+161,Ao no Hako,8,82,7.81,null,2021-04-12,null
+162,Yuragi-Sou no Yuuna-san,24,214,7.24,null,2016-02-08,2020-06-08
+163,We Never Learn,21,187,7.66,null,2017-02-06,2020-12-21
+164,Samurai 8,5,43,5.77,null,2019-05-13,2020-03-23
+165,Yakusoku no Neverland,20,181,8.18,null,2016-08-01,2020-01-15
+166,Moriking,4,38,5.75,null,2020-04-13,2021-01-18
+167,Phantom Seer,4,32,6.73,null,2020-08-31,2021-04-05
+168,Agravity Boys,7,59,6.6,null,2019-12-09,2021-04-30
+169,Time Paradox Ghostwriter,2,15,6.33,null,2020-05-18,2020-08-31
+170,Build King,3,25,4.99,null,2020-11-16,2021-09-03
+171,The Elusive Samurai,8,91,6.45,null,2021-01-25,null
+172,Burn The Witch,1,4,6.9,null,2020-08-24,null
+173,Naruto ,79,700,8.07,null,1999-09-21,2014-11-10
+174,One Piece,104,1067,9.2,null,1997-07-19,null
+175,Full Metal Alchemist,27,106,9.04,null,2001-07-12,2011-09-11
+176,Boruto,18,73,6.83,173,2016-05-09,null

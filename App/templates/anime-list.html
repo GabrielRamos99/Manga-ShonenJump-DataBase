@@ -1,0 +1,33 @@
+{% extends 'base.html' %}
+
+{% block header %}
+  <h1>{% block title %}Anime{% endblock %}</h1>
+{% endblock %}
+
+{% block content %}
+  <table> 
+  <tr>
+    <th><b>AnimeId</b></th>
+    <th><b>Name</b></th>
+    <th><b>Nº episodes</b></th>
+    <th><b>Rating</b></th>
+    <th><b>Manga Id</b></th>
+    <th><b>Studio Id</b></th>
+    <th><b>Start Date</b></th>
+    <th><b>End Date</b></th>
+   </tr>
+   
+  {% for anime in animes %}
+    <tr>
+      <td><a href="/animes/{{ anime.AnimeId }}">{{ anime.AnimeId  }}</a></td>
+      <td>{{ anime.animeName }}</td>
+      <td>{{ anime.episode_number }}</td>
+      <td>{{ anime.animeRating }}</td>
+      <td>{{ anime.MangaId }}</td>
+      <td>{{ anime.StudioId }}</td>
+      <td>{{ anime.start_date}}</td>
+      <td>{{ anime.end_date }}</td>
+    </tr>
+  {% endfor %}
+  </table>
+{% endblock %}

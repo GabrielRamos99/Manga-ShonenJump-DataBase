@@ -1,0 +1,27 @@
+{% extends 'base.html' %}
+
+{% block header %}
+  <h1>{% block title %}Studio{% endblock %}</h1>
+{% endblock %}
+
+{% block content %}
+  <table> 
+  <tr>
+    <th><b>StudioId</b></th>
+    <th><b>Studio Name</b></th>
+    <th><b>Studio Owner</b></th>
+    <th><b>Country</b></th>
+    <th><b>City</b></th>
+   </tr>
+   
+  {% for studio in studios %}
+    <tr>
+      <td><a href="/studios/{{ studio.StudioId }}">{{studio.StudioId  }}</a></td>
+      <td>{{ studio.studioName }}</td>
+      <td>{{ studio.studioOwner }}</td>
+      <td>{{ studio.LCountry }}</td>
+      <td>{{ studio.LCity }}</td>
+    </tr>
+  {% endfor %}
+  </table>
+{% endblock %}

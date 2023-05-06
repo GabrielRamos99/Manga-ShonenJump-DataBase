@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+
+{% block header %}
+  <h1>{% block title %}{{ author.authorName }} {% endblock %}</h1>
+{% endblock %}
+
+{% block content %}
+  <h2>Author info</h2>
+  <p>
+    <b>AuthorId: </b>{{ author.AuthorId }}
+  </p>
+  <p>
+    <b>Name: </b>{{ author.authorName }}
+  </p>
+  <p>
+    <b>Nationality: </b>{{ author.nationality  }}
+  </p>
+  <p>
+    <b>Date Of Birth: </b>{{ author.date_of_birth  }}
+  </p>
+  <p>
+    <b>Date Of Death: </b>{{ author.date_of_death  }}
+  </p>
+  <b>Mangas: </b><ul>
+    {% for m  in mangas %}      
+      <li><a href="/mangas/{{ m.MangaId }}">{{ m.manga_name }}</a></li>
+    {% endfor %}
+    </ul>
+  </p>
+  <p>
+
+
+
+
+{% endblock %}

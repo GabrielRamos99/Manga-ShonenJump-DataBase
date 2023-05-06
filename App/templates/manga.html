@@ -1,0 +1,42 @@
+{% extends 'base.html' %}
+
+{% block header %}
+  <h1>{% block title %}{{ manga.manga_name }} {% endblock %}</h1>
+{% endblock %}
+
+{% block content %}
+  <h2>Manga info</h2>
+  <p>
+    <b>MangaId: </b>{{ manga.MangaId }}
+  </p>
+  <p>
+    <b>Title: </b>{{ manga.manga_name  }}
+  </p>
+  <p>
+    <b>Number of chapters: </b>{{ manga.chapters }}
+  </p>
+  <p>
+    <b>Number of volumes: </b>{{ manga.volumes }}
+  </p>
+  <p>
+    <b>Rating: </b>{{ manga.mangaRating }}
+  </p>
+  <p>
+    <b>Release date: </b>{{ manga.start_date }}
+  </p>
+  <p>
+    <b>End date: </b>{{ manga.end_date }}
+  </p>
+  <p>
+    <b>Pre-quel: </b>{{ manga.pre_quel}}
+  </p>
+  <p>
+    <b>Genres: </b><ul>
+    {% for g in genres %}      
+      <li><a href="/genres/{{ g.GenreId }}">{{ g.Label }}</a></li>
+    {% endfor %}
+    </ul>
+  </p>
+  <p>
+  
+{% endblock %}

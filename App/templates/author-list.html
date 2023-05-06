@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+
+{% block header %}
+  <h1>{% block title %}Authors{% endblock %}</h1>
+{% endblock %}
+
+{% block content %}
+  <table> 
+  <tr>
+    <th><b>Id</b></th>
+    <th><b>Name</b></th>
+    <th><b>Nationality</b></th>
+    <th><b>Date Of Birth</b></th>
+    <th><b>Date Of Death</b></th>
+   </tr>
+   
+  {% for a in authors %}
+    <tr>
+      <td><a href="/authors/{{ a.AuthorId }}">{{ a.AuthorId }}</a></td>
+      <td>{{ a.authorName }}</td>
+      <td>{{ a.nationality }}</td>
+      <td>{{ a.date_of_birth }}</td>
+      <td>{{ a.date_of_death }}</td>
+      
+    </tr>
+  {% endfor %}
+  </table>
+{% endblock %}

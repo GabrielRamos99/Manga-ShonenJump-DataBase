@@ -1,0 +1,32 @@
+{% extends 'base.html' %}
+
+{% block header %}
+  <h1>{% block title %}{{ studio.studioName }} {% endblock %}</h1>
+{% endblock %}
+
+{% block content %}
+  <h2>Studio info</h2>
+  <p>
+    <b>Studio Id: </b>{{ studio.StudioId }}
+  </p>
+  <p>
+    <b>Name of Studio: </b>{{ studio.studioName  }}
+  </p>
+  <p>
+  <p>
+    <b>Owner of studio: </b>{{ studio.studioOwner  }}
+  </p>
+  <p>    
+    <b>Country: </b>{{ studio.LCountry }}
+  </p>
+  <p>
+    <b>City: </b>{{ studio.LCity }}
+  </p>
+  <p>
+    <b>Animes: </b><ul>
+    {% for g in animes %}      
+      <li><a href="/animes/{{ g.AnimeId }}">{{ g.animeName }}</a></li>
+    {% endfor %}
+    </ul>
+  </p>
+{% endblock %}

@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+
+{% block header %}
+  <h1>{% block title %}Manga{% endblock %}</h1>
+{% endblock %}
+
+{% block content %}
+  <table> 
+  <tr>
+    <th><b>Id</b></th>
+    <th><b>Name</b></th>
+    <th><b>Nº Chapters</b></th>
+    <th><b>Nº Volumes</b></th>
+    <th><b>Rating</b></th>
+    <th><b>Realease Date</b></th>
+    <th><b>End Date</b></th>
+    <th><b>prequel</b></th>
+
+   </tr>
+   
+  {% for manga in mangas %}
+    <tr>
+      <td><a href="/mangas/{{ manga.MangaId }}">{{ manga.MangaId  }}</a></td>
+      <td>{{ manga.manga_name }}</td>
+      <td>{{ manga.chapters }}</td>
+      <td>{{ manga.volumes }}</td>
+      <td>{{ manga.mangaRating }}</td>
+      <td>{{ manga.start_date }}</td>
+      <td>{{ manga.end_date }}</td>
+      <td>{{ manga.pre_quel }}</td>
+
+    </tr>
+  {% endfor %}
+  </table>
+{% endblock %}
