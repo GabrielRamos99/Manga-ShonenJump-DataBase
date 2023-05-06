@@ -7,9 +7,9 @@ import re
 CONFIG = {
   'DB': 'MyDataBAse',
   'USER': 'root',
-  'PASSWORD': 'slbenfica99',
-  'HOST': '127.0.0.1',
-  'PORT': 3306,
+  'PASSWORD': 'XXXXXXXX',
+  'HOST': 'XXXXXXX',
+  'PORT': XXXXXX,
   'CHARSET': 'utf8'
 }
 
